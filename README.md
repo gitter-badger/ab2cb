@@ -1,5 +1,7 @@
 # ab2cb: convert AdBlock Plus content filters to Safari Content Blockers
 
+[![Join the chat at https://gitter.im/bnomis/ab2cb](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bnomis/ab2cb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a work in progress! It is not perfect.
 
 The `ab2cb` script reads filter lists as used by AdBlock Plus and produces a JSON Content Blocker file.
